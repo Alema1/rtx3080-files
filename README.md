@@ -1,6 +1,2 @@
 # rtx3080-files
-rtx3080 trianing files
-
-aaaaaaaaaaaaaaaaaaa
-bbbbbbbbbbbbbbbbb
-vvvvvvvvvvvvvv
+Setup files for RTX 3080 neural network training
